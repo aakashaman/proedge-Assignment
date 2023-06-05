@@ -1,5 +1,10 @@
 # proedge-Assignment
 
+
+![pro4](https://github.com/aakashaman/proedge-Assignment/assets/73350574/4ce2a668-1e6d-4a6b-8f51-d86c5feb353d)
+![pro2](https://github.com/aakashaman/proedge-Assignment/assets/73350574/b44d8b1b-a8ce-4397-93e6-bb49304ae71d)
+![pro1](https://github.com/aakashaman/proedge-Assignment/assets/73350574/46ce605f-c912-4ebb-a0ae-e8b6daa94c43)
+
 ## components
 
 ### ContactList: Renders a list of contacts in a card format. Each contact card displays the contact's name, phone number, and an image.
